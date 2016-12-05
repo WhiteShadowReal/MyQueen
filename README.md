@@ -28,9 +28,9 @@
   "repository": {
     "id": 75651014,
     "name": "MyQueen",
-    "full_name": "WhiteShadowReal/MyQueen",
+    "full_name": "MyQueen",
     "owner": {
-      "login": "WhiteShadowReal",
+      "login": "MyQueen",
       "id": 24394011,
       "avatar_url": "https://avatars.githubusercontent.com/u/24394011?v=3",
       "gravatar_id": "",

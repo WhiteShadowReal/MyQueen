@@ -27,10 +27,10 @@
   },
   "repository": {
     "id": 75651014,
-    "name": "MyQueen",
-    "full_name": "MyQueen",
+    "name": "WhiteQueen",
+    "full_name": "WhiteQueen",
     "owner": {
-      "login": "MyQueen",
+      "login": "WhiteQueen",
       "id": 24394011,
       "avatar_url": "https://avatars.githubusercontent.com/u/24394011?v=3",
       "gravatar_id": "",
